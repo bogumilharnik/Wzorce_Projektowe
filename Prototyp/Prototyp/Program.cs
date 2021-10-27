@@ -59,7 +59,7 @@ class MainClass
 
         decimal product2 = (product.Price * 0.9m);
 
-        Console.WriteLine(String.Format("Bread - {0} zł", product.Price + " > " + product2.ToString("F2")));
+        Console.WriteLine(String.Format("Bread - {0} zł", product.Price + " zł > " + product2.ToString("F2")));
         Console.WriteLine();
 
         product = supermarket.GetClonedProduct("Bread");

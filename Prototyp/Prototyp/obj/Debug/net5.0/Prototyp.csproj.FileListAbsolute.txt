@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\Prototyp.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\Prototyp.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\Prototyp.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\Prototyp.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\Prototyp.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\ref\Prototyp.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\bin\Debug\net5.0\Prototyp.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\ref\Prototyp.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Prototyp\Prototyp\obj\Debug\net5.0\Prototyp.genruntimeconfig.cache
