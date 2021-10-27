@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\Budowniczy.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\Budowniczy.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\Budowniczy.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\Budowniczy.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\Budowniczy.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\ref\Budowniczy.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\bin\Debug\net5.0\Budowniczy.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\ref\Budowniczy.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Budowniczy\Budowniczy\obj\Debug\net5.0\Budowniczy.genruntimeconfig.cache
