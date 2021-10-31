@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Xml;
+using System.IO;
 
-namespace WzorzecAdapter
+namespace Adapter
 {
-    //KOD Z ZEWNĘTRZNEJ BIBLIOTEKI
     public class UsersApi
     {
         public async Task<string> GetUsersXmlAsync()
@@ -19,8 +19,13 @@ namespace WzorzecAdapter
         }
     }
 
-    // tu trzeba dopisać klasę zwracającą zawartość pliku csv w postaci stringa (jednego długiego, rozdzielanego znakami nowego wiersza)
-
+    public class UsersAccounting
+    {
+        public string GetUsersCsv()
+        {
+            return File.ReadAllText("users.csv");
+        }
+    }
 
     public interface IUserRepository
     {
@@ -54,42 +59,53 @@ namespace WzorzecAdapter
             {
                 foreach (XmlNode user in rootEl.ChildNodes)
                 {
-                    userNames.Add(user.Attributes["name"].InnerText + user.Attributes["surname"].InnerText);
+                    userNames.Add(user.Attributes["name"].InnerText + " " + user.Attributes["surname"].InnerText);
                 }
             }
             return userNames;
         }
-
     }
 
-    // tu trzeba dopisać własny adapter implementujący odpowiedni interfejs
+    public class UsersRepositoryAccountingAdapter : IUserRepository
+    {
+        private UsersAccounting _adaptee = null;
+
+        public UsersRepositoryAccountingAdapter(UsersAccounting adaptee)
+        {
+            _adaptee = adaptee;
+        }
+
+        public List<string> GetUserNames()
+        {
+            List<string> userNames = new List<string>();
+            string csvData = _adaptee.GetUsersCsv();
+            string[] lines = csvData.Split("\n");
+            foreach (string line in lines)
+            {
+                string[] names = line.Split(",");
+                userNames.Add(names[0] + " " + names[1]);
+            }
+            return userNames;
+        }
+    }
 
     public class Program
     {
+        static void PrintNames(IUserRepository adapter)
+        {
+            List<string> users = adapter.GetUserNames();
+            int index = 0;
 
+            foreach (var userName in users)
+            {
+                Console.WriteLine((++index).ToString() + ". " + userName);
+            }
+        }
         static void Main(string[] args)
         {
+            IUserRepository adapter = new UsersRepositoryAccountingAdapter(new UsersAccounting());
 
-            UsersApi userRepository = new UsersApi();
-
-            IUserRepository adapter = new UsersRepositoryAdapter(userRepository);
-
-            List<string> users = adapter.GetUserNames();
-             foreach(var userName in users)
-             {
-               Console.WriteLine(userName);
-             }
-
-            //var values = "name,surname".Split(",");
-
-            //foreach (var val in values)
-            //{
-                //Console.WriteLine(val);
-            //}
-
-            // TODO: wyświetl w konsoli
+            PrintNames(adapter);
         }
-
     }
-
 }
