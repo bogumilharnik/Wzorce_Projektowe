@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\ref\Fasada.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\ref\Fasada.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.genruntimeconfig.cache
