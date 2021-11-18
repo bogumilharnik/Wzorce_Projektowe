@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\Most.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\Most.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\Most.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\Most.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\Most.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\ref\Most.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\bin\Debug\net5.0\Most.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\ref\Most.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Most\Most\obj\Debug\net5.0\Most.genruntimeconfig.cache
