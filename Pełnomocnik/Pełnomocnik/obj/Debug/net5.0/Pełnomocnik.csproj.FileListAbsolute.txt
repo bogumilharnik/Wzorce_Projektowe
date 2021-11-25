@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\Pełnomocnik.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\Pełnomocnik.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\Pełnomocnik.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\Pełnomocnik.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\Pełnomocnik.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\ref\Pełnomocnik.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\bin\Debug\net5.0\Pełnomocnik.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\ref\Pełnomocnik.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pełnomocnik\Pełnomocnik\obj\Debug\net5.0\Pełnomocnik.genruntimeconfig.cache
