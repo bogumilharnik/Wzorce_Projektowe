@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\Polecenie.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\Polecenie.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\Polecenie.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\Polecenie.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\Polecenie.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\ref\Polecenie.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\bin\Debug\net5.0\Polecenie.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\ref\Polecenie.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Polecenie\Polecenie\obj\Debug\net5.0\Polecenie.genruntimeconfig.cache
