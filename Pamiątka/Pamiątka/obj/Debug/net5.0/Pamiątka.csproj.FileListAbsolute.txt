@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\Pamiątka.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\Pamiątka.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\Pamiątka.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\Pamiątka.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\Pamiątka.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\ref\Pamiątka.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\bin\Debug\net5.0\Pamiątka.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\ref\Pamiątka.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Pamiątka\Pamiątka\obj\Debug\net5.0\Pamiątka.genruntimeconfig.cache
