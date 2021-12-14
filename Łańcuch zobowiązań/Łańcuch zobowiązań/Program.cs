@@ -54,7 +54,6 @@ namespace Łańcuch_zobowiązań
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Lancuch l1 = new BrakLancuch();
-            l1.ustawNastepne(l1);
 
             int i = 0;
             l1.przetwarzaj(new Powiadomienia(i));
