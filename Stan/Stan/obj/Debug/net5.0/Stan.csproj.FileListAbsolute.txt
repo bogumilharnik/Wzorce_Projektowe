@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\Stan.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\Stan.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\Stan.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\Stan.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\Stan.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\ref\Stan.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\bin\Debug\net5.0\Stan.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\ref\Stan.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Stan\Stan\obj\Debug\net5.0\Stan.genruntimeconfig.cache

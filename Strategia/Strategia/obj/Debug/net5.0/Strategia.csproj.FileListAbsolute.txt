@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\Strategia.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\Strategia.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\Strategia.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\Strategia.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\Strategia.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\ref\Strategia.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\bin\Debug\net5.0\Strategia.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\ref\Strategia.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Strategia\Strategia\obj\Debug\net5.0\Strategia.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Odwiedzający/1.0.0": {
+        "runtime": {
+          "Odwiedzający.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odwiedzający/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
