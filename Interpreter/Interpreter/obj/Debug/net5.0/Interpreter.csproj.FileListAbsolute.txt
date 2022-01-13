@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\Interpreter.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\Interpreter.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\Interpreter.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\Interpreter.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\Interpreter.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\ref\Interpreter.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\bin\Debug\net5.0\Interpreter.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\ref\Interpreter.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Interpreter\Interpreter\obj\Debug\net5.0\Interpreter.genruntimeconfig.cache
