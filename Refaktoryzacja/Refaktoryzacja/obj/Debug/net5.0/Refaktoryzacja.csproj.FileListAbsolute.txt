@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\Refaktoryzacja.exe
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\Refaktoryzacja.deps.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\Refaktoryzacja.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\Refaktoryzacja.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\Refaktoryzacja.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\ref\Refaktoryzacja.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\bin\Debug\net5.0\Refaktoryzacja.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\ref\Refaktoryzacja.dll
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.pdb
+C:\Users\jakub\Documents\GitHub\WzorceProjektowe\Refaktoryzacja\Refaktoryzacja\obj\Debug\net5.0\Refaktoryzacja.genruntimeconfig.cache
