@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -92,11 +92,11 @@ namespace Fasada
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             IUserService userService = new UserService();
-            Console.WriteLine($"Aktualna licza adresów: {userService.UserCount()}");
+            Console.WriteLine($"Aktualna liczba adresów: {userService.UserCount()}");
             userService.CreateUser("someemail@gmail.com");
-            Console.WriteLine($"Aktualna licza adresów: {userService.UserCount()}");
+            Console.WriteLine($"Aktualna liczba adresów: {userService.UserCount()}");
             userService.RemoveUser("john.doe@gmail.com");
-            Console.WriteLine($"Aktualna licza adresów: {userService.UserCount()}");
+            Console.WriteLine($"Aktualna liczba adresów: {userService.UserCount()}");
         }
     }
 }
