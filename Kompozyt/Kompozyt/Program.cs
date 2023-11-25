@@ -1,108 +1,89 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace Kompozyt
+public interface Kompozyt
 {
-    public interface Kompozyt
+    string Nazwa { get; set; }
+    void DodajElement(Kompozyt element);
+    void UsunElement(Kompozyt element);
+    void Renderuj();
+}
+
+public class Lisc : Kompozyt
+{
+    public string Nazwa { get; set; }
+
+    public void DodajElement(Kompozyt element)
     {
-        void Renderuj();
-
-        void DodajElement(Kompozyt element);
-
-        void UsunElement(Kompozyt element);
+        // Liście nie mogą zawierać innych elementów, więc ta metoda jest pusta.
     }
 
-    public class Lisc : Kompozyt
+    public void UsunElement(Kompozyt element)
     {
-        public string nazwa { get; set; }
-
-        public void Renderuj()
-        {
-            Console.WriteLine(nazwa + " renderowanie...");
-        }
-
-        public Lisc()
-        {
-
-        }
-
-        public void DodajElement(Kompozyt element)
-        {
-            throw new NotSupportedException("...");
-        }
-
-        public void UsunElement(Kompozyt element)
-        {
-            throw new NotSupportedException("...");
-        }
+        // Liście nie mogą zawierać innych elementów, więc ta metoda jest pusta.
     }
 
-    public class Wezel : Kompozyt
+    public void Renderuj()
     {
-        private List<Kompozyt> Lista = new List<Kompozyt>();
+        Console.WriteLine($"Liść {Nazwa} renderowanie...");
+    }
+}
 
-        public string nazwa { get; set; }
+public class Wezel : Kompozyt
+{
+    private List<Kompozyt> Lista = new List<Kompozyt>();
 
-        public void Renderuj()
-        {
-            Console.WriteLine(nazwa + " rozpoczęcie renderowania"); 
-            foreach (var item in Lista)
-            {
-                item.Renderuj();
-            }
-            Console.WriteLine(nazwa + " zakończenie renderowania");
-        }
+    public string Nazwa { get; set; }
 
-        public void DodajElement(Kompozyt element)
-        {
-            if (!Lista.Contains(element))
-            {
-                Lista.Add(element);
-            }
-        }
-
-        public void UsunElement(Kompozyt element)
-        {
-            if (Lista.Contains(element))
-            {
-                Lista.Remove(element);
-            }
-        }
+    public void DodajElement(Kompozyt element)
+    {
+        Lista.Add(element);
     }
 
-    class MainClass
+    public void UsunElement(Kompozyt element)
     {
-        public static void Main(string[] args)
+        Lista.Remove(element);
+    }
+
+    public void Renderuj()
+    {
+        Console.WriteLine($"{Nazwa} rozpoczęcie renderowania");
+
+        foreach (var item in Lista)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Wezel korzen = new Wezel();
-            korzen.nazwa = "Korzeń";
-            Lisc lisc = new Lisc() { nazwa = "Liść 1.1" };
-            korzen.DodajElement(lisc);
-
-            Wezel wezel2 = new Wezel();
-            wezel2.nazwa = "Węzeł 2";
-            for (int i = 1; i <= 3; i++)
-            {
-                wezel2.DodajElement(new Lisc() { nazwa = $"Liść 2.{i}" });
-            }
-            korzen.DodajElement(wezel2);
-
-            Wezel wezel3 = new Wezel();
-            wezel3.nazwa = "Węzeł 3";
-            for (int i = 1; i <= 2; i++)
-            {
-                wezel3.DodajElement(new Lisc() { nazwa = $"Liść 3.{i}" });
-            }
-
-            Wezel wezel33 = new Wezel();
-            wezel33.nazwa = "Węzeł 3.3";
-            wezel33.DodajElement(new Lisc() { nazwa = "Liść 3.3.1" });
-
-            wezel3.DodajElement(wezel33);
-            korzen.DodajElement(wezel3);
-            korzen.Renderuj();
+            item.Renderuj();
         }
+
+        Console.WriteLine($"{Nazwa} zakończenie renderowania");
+    }
+}
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        // Definicje struktury
+        Wezel korzen = new Wezel { Nazwa = "Korzeń" };
+        korzen.DodajElement(new Lisc { Nazwa = "1.1" });
+            
+        Wezel wezel2 = new Wezel { Nazwa = "Węzeł 2" };
+        wezel2.DodajElement(new Lisc { Nazwa = "2.1" });
+        wezel2.DodajElement(new Lisc { Nazwa = "2.2" });
+        wezel2.DodajElement(new Lisc { Nazwa = "2.3" });
+
+        Wezel wezel3 = new Wezel { Nazwa = "Węzeł 3" };
+        wezel3.DodajElement(new Lisc { Nazwa = "3.1" });
+        wezel3.DodajElement(new Lisc { Nazwa = "3.2" });
+
+        Wezel wezel3_3 = new Wezel { Nazwa = "Węzeł 3.3" };
+        wezel3_3.DodajElement(new Lisc { Nazwa = "3.3.1" });
+
+        wezel3.DodajElement(wezel3_3);
+
+        korzen.DodajElement(wezel2);
+        korzen.DodajElement(wezel3);
+
+        // Renderowanie
+        korzen.Renderuj();
     }
 }
