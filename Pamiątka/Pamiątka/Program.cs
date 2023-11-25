@@ -1,66 +1,126 @@
-﻿using System;
+
+
+using System;
 using System.Collections.Generic;
 
-namespace Pamiątka
+namespace Pamiatka
 {
-    class Zycie
+    public interface IMovie 
     {
-        private string czas { get; set; }
+        void SetYear(int year);
+        IMemento Save();
+        void Restore(IMemento memento);
+    }
+  
+    class BackToTheFuture : IMovie 
+    {
+        private int Year;
 
-        public void Czas(string czas)
+        public BackToTheFuture(int year)
         {
-            Console.WriteLine("Skok do roku: " + czas);
-            this.czas = czas;
+            this.Year = year;
+            Console.WriteLine("Początkowy rok: " + year);
         }
 
-        public Pamiatka zapiszPamiatke()
+        public void SetYear(int year)
         {
-            Console.WriteLine("stan zapisany");
-            return new Pamiatka(czas);
+            this.Year = year;
+            Console.WriteLine("Rok zmieniony na: " + year);
         }
 
-        public void przywrocPamiatke(Pamiatka pamiatka)
+        public IMemento Save()
         {
-            czas = pamiatka.pobierzCzas();
-            Console.WriteLine("Przywrócono rok: " + czas);
+            return new Memento(this.Year);
+        }
+
+        public void Restore(IMemento memento)
+        {
+            this.Year = ((Memento)memento).GetYear();
+            Console.WriteLine("Przywrócony rok: " + this.Year);
         }
     }
 
-    public class Pamiatka
+    public interface IMemento
     {
-        private string czas;
+        // Marker interface, you might consider defining methods/properties here.
+    }
 
-        public Pamiatka(string czas)
+    class Memento : IMemento
+    {
+        private int Year;
+
+        public Memento(int year)
         {
-            this.czas = czas;
+            this.Year = year;
         }
 
-        public string pobierzCzas()
+        public int GetYear()
         {
-            return this.czas;
+            return this.Year;
+        }
+    }
+
+    class Caretaker
+    {
+        private List<IMemento> Mementos = new List<IMemento>();
+        private IMovie movie;
+
+        public Caretaker(IMovie movie)
+        {
+            this.movie = movie;
+        }
+
+        public void Save()
+        {
+            var memento = movie.Save();
+            Mementos.Add(memento);
+            Console.WriteLine("Zapisano pamiątkę z roku: " + ((Memento)memento).GetYear());
+        }
+
+        public void Undo()
+        {
+            if (Mementos.Count == 0)
+            {
+                Console.WriteLine("Nie można cofnąć - brak zapisanych danych");
+                return;
+            }
+
+            var memento = Mementos[Mementos.Count - 1];
+            Mementos.RemoveAt(Mementos.Count - 1);
+            movie.Restore(memento);
         }
     }
 
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.WriteLine("Powrót do przyszłości (Back to the Future)");
+            BackToTheFuture favoriteMovie = new BackToTheFuture(1985);
+            Caretaker caretaker = new Caretaker(favoriteMovie);
+
+            caretaker.Undo(); // test ;)
+
             Console.WriteLine();
 
-            List<Pamiatka> zapisaneStany = new List<Pamiatka>();
-            Zycie zycie = new Zycie();
+            Console.WriteLine("Część I:");
+            favoriteMovie.SetYear(1955);
+            caretaker.Save();
+            favoriteMovie.SetYear(1985);
 
-            zycie.Czas("1985");
-            zapisaneStany.Add(zycie.zapiszPamiatke());
-            zycie.Czas("1955");
-            zapisaneStany.Add(zycie.zapiszPamiatke());
-            zycie.Czas("2015");
-            zapisaneStany.Add(zycie.zapiszPamiatke());
-            zycie.Czas("1885");
+            Console.WriteLine();
 
-            zycie.przywrocPamiatke(zapisaneStany[0]);
+            Console.WriteLine("Część II:");
+            favoriteMovie.SetYear(2015);
+            favoriteMovie.SetYear(1985);
+            caretaker.Undo();
+            favoriteMovie.SetYear(1985);
+            caretaker.Save();
+
+            Console.WriteLine();
+
+            Console.WriteLine("Część III:");
+            favoriteMovie.SetYear(1885);
+            caretaker.Undo();
         }
     }
 }
