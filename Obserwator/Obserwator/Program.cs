@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-namespace Obserwator
+namespace WzorceProjektowe
 {
     public enum Genre
     {
